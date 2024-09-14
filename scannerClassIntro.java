@@ -1,4 +1,5 @@
 //Scanner Class Introductiom
+// uses the Scanner to recieve user input and print it
 
 import java.util.Scanner;
 
